@@ -3,19 +3,10 @@
   <entry>
     <title>简单介绍</title>
     <url>/2021/10/15/hello-world/</url>
-    <content><![CDATA[<p>欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。<br>个人信息：性别：男生 年龄：21 爱好：音乐 电影 物理 计算机 睡觉。<br>学过的编程语言：Java HTML CSS JavaScript C语言 汇编语言（接触过一点）。<br>学过的数据库：MySQL。<br>联系方式：QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=2431509232&site=qq&menu=yes">2431509232</a> 邮箱：<a href="mailto:&#x32;&#52;&#x33;&#49;&#53;&#x30;&#x39;&#x32;&#x33;&#x32;&#x40;&#x71;&#113;&#46;&#x63;&#x6f;&#x6d;">&#x32;&#52;&#x33;&#49;&#53;&#x30;&#x39;&#x32;&#x33;&#x32;&#x40;&#x71;&#113;&#46;&#x63;&#x6f;&#x6d;</a></p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <content><![CDATA[<h3 id="欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。"><a href="#欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。" class="headerlink" title="欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。"></a>欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。</h3><h3 id="个人信息："><a href="#个人信息：" class="headerlink" title="个人信息："></a>个人信息：</h3><p>性别：男生 年龄：21 爱好：音乐 电影 物理 计算机 睡觉。</p>
+<h3 id="学过的编程语言："><a href="#学过的编程语言：" class="headerlink" title="学过的编程语言："></a>学过的编程语言：</h3><p>Java HTML CSS JavaScript C语言 汇编语言（接触过一点）。</p>
+<h3 id="学过的数据库：MySQL。"><a href="#学过的数据库：MySQL。" class="headerlink" title="学过的数据库：MySQL。"></a>学过的数据库：MySQL。</h3><h3 id="联系方式："><a href="#联系方式：" class="headerlink" title="联系方式："></a>联系方式：</h3><p>QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=2431509232&site=qq&menu=yes">2431509232</a> 邮箱：<a href="mailto:&#50;&#52;&#51;&#x31;&#53;&#48;&#x39;&#x32;&#x33;&#x32;&#x40;&#x71;&#x71;&#x2e;&#x63;&#x6f;&#109;">&#50;&#52;&#51;&#x31;&#53;&#48;&#x39;&#x32;&#x33;&#x32;&#x40;&#x71;&#x71;&#x2e;&#x63;&#x6f;&#109;</a></p>
+<h2 id="下面使用Java语言在控制台输出-你好，欢迎你的到来！"><a href="#下面使用Java语言在控制台输出-你好，欢迎你的到来！" class="headerlink" title="下面使用Java语言在控制台输出:你好，欢迎你的到来！"></a>下面使用Java语言在控制台输出:你好，欢迎你的到来！</h2><h3 id="这是初学编程语言的第一个程序，在控制台输出一句话。"><a href="#这是初学编程语言的第一个程序，在控制台输出一句话。" class="headerlink" title="这是初学编程语言的第一个程序，在控制台输出一句话。"></a>这是初学编程语言的第一个程序，在控制台输出一句话。</h3><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">HelloWorld</span></span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span></span>&#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;你好，欢迎你的到来!&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 ]]></content>
   </entry>
 </search>
