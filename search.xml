@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>创建型：单例模式</title>
+    <url>/2021/10/18/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Java设计模式</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+        <tag>编程</tag>
+        <tag>计算机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>简单介绍</title>
+    <url>/2021/10/15/hello-world/</url>
+    <content><![CDATA[<h3 id="欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。"><a href="#欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。" class="headerlink" title="欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。"></a>欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。</h3><h5 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h5><p>性别：男生<br>年龄：21<br>爱好：音乐 电影 物理 计算机 睡觉。</p>
+<h5 id="学过的编程语言"><a href="#学过的编程语言" class="headerlink" title="学过的编程语言"></a>学过的编程语言</h5><p>Java HTML CSS JavaScript C语言 汇编语言（接触过一点）。</p>
+<h5 id="学过的数据库：MySQL。"><a href="#学过的数据库：MySQL。" class="headerlink" title="学过的数据库：MySQL。"></a>学过的数据库：MySQL。</h5><h5 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h5><p>QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=2431509232&site=qq&menu=yes">2431509232</a> 邮箱：<a href="mailto:&#x32;&#x34;&#51;&#x31;&#x35;&#48;&#x39;&#x32;&#51;&#x32;&#x40;&#x71;&#113;&#46;&#x63;&#111;&#109;">&#x32;&#x34;&#51;&#x31;&#x35;&#48;&#x39;&#x32;&#51;&#x32;&#x40;&#x71;&#113;&#46;&#x63;&#111;&#109;</a></p>
+<span id="more"></span>
+
+<hr>
+<h5 id="下面使用Java语言在控制台输出-你好，欢迎你的到来！"><a href="#下面使用Java语言在控制台输出-你好，欢迎你的到来！" class="headerlink" title="下面使用Java语言在控制台输出:你好，欢迎你的到来！"></a>下面使用Java语言在控制台输出:你好，欢迎你的到来！</h5><h5 id="这是初学编程语言的第一个程序，在控制台输出一句话。"><a href="#这是初学编程语言的第一个程序，在控制台输出一句话。" class="headerlink" title="这是初学编程语言的第一个程序，在控制台输出一句话。"></a>这是初学编程语言的第一个程序，在控制台输出一句话。</h5><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">HelloWorld</span></span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span></span>&#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;你好，欢迎你的到来!&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h5 id="运行结果：你好，欢迎你的到来"><a href="#运行结果：你好，欢迎你的到来" class="headerlink" title="运行结果：你好，欢迎你的到来!"></a>运行结果：你好，欢迎你的到来!</h5><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">你好，欢迎你的到来!</span><br></pre></td></tr></table></figure>
+<hr>
+<h5 id="可能你打开该网站时会访问很慢，这是因为网站部署在GitHub上，GitHub服务器是在国外的，所以有时候会访问速度慢。"><a href="#可能你打开该网站时会访问很慢，这是因为网站部署在GitHub上，GitHub服务器是在国外的，所以有时候会访问速度慢。" class="headerlink" title="可能你打开该网站时会访问很慢，这是因为网站部署在GitHub上，GitHub服务器是在国外的，所以有时候会访问速度慢。"></a>可能你打开该网站时会访问很慢，这是因为网站部署在<a href="https://github.com/">GitHub</a>上，<a href="https://github.com/">GitHub</a>服务器是在国外的，所以有时候会访问速度慢。</h5><h5 id="你可能会带有疑惑GitHub是什么？"><a href="#你可能会带有疑惑GitHub是什么？" class="headerlink" title="你可能会带有疑惑GitHub是什么？"></a>你可能会带有疑惑<a href="https://github.com/">GitHub</a>是什么？</h5><p><a href="https://github.com/">GitHub</a>是通过<a href="https://git-scm.com/">Git</a>进行版本控制的软件源代码托管服务平台。<br>截止到2020年1月，<a href="https://github.com/">GitHub</a>已经有超过4000万注册用户和1.9亿代码库（包括至少2800万开源代码库），事实上已经成为了世界上最大的代码存放网站和开源社区。<br>2018年6月4日晚，美国科技公司微软宣布以75亿美元的股票收购<a href="https://github.com/">GitHub</a>。<br>那么我这个网站部署是使用GitHub Pages是<a href="https://github.com/">GitHub</a>提供的一个网页托管服务，来托管的。下面有介绍：<br>GitHub Pages是<a href="https://github.com/">GitHub</a>提供的一个网页托管服务，可以用于存放静态网页，包括博客、项目文档甚至整本书。一般GitHub Pages的网站使用github.io的子域名，但是用户也可以使用第三方域名。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>2. 安装PS</title>
     <url>/2021/10/18/%E5%AE%89%E8%A3%85PS/</url>
     <content><![CDATA[<p>如果想使用PS，需要下载安装好PS软件。</p>
@@ -25,18 +54,18 @@
     <title>1. 认识PS</title>
     <url>/2021/10/17/%E8%AE%A4%E8%AF%86PS/</url>
     <content><![CDATA[<p>大家应该经常听到PS，那么PS是什么？能做什么？接下来就给大家介绍PS。</p>
-<h3 id="PS简介："><a href="#PS简介：" class="headerlink" title="PS简介："></a>PS简介：</h3><p>Adobe Photoshop，简称“PS”，是由Adobe Systems开发和发行的图像处理软件。<br>Photoshop主要处理以像素所构成的数字图像。使用其众多的编修与绘图工具，可以有效地进行图片编辑工作。ps有很多功能，在图像、图形、文字、视频、出版等各方面都有涉及。<br>2003年，Adobe Photoshop 8被更名为Adobe Photoshop CS。2013年7月，Adobe公司推出了新版本的Photoshop CC，自此，Photoshop CS6作为Adobe CS系列的最后一个版本被新的CC系列取代。<br>截止2021年7月Adobe Photoshop 2021为市场最新版本。<br>Adobe支持Windows操作系统 、Android与Mac OS， 但Linux操作系统用户可以通过使用Wine来运行Photoshop。</p>
+<h3 id="PS简介"><a href="#PS简介" class="headerlink" title="PS简介"></a>PS简介</h3><p>Adobe Photoshop，简称“PS”，是由Adobe Systems开发和发行的图像处理软件。<br>Photoshop主要处理以像素所构成的数字图像。使用其众多的编修与绘图工具，可以有效地进行图片编辑工作。ps有很多功能，在图像、图形、文字、视频、出版等各方面都有涉及。<br>2003年，Adobe Photoshop 8被更名为Adobe Photoshop CS。2013年7月，Adobe公司推出了新版本的Photoshop CC，自此，Photoshop CS6作为Adobe CS系列的最后一个版本被新的CC系列取代。<br>截止2021年7月Adobe Photoshop 2021为市场最新版本。<br>Adobe支持Windows操作系统 、Android与Mac OS， 但Linux操作系统用户可以通过使用Wine来运行Photoshop。</p>
 <span id="more"></span>
 
 <hr>
-<h3 id="PS的用途："><a href="#PS的用途：" class="headerlink" title="PS的用途："></a>PS的用途：</h3><h5 id="专业测评："><a href="#专业测评：" class="headerlink" title="专业测评："></a>专业测评：</h5><p>Photoshop的专长在于图像处理，而不是图形创作。图像处理是对已有的位图图像进行编辑加工处理以及运用一些特殊效果，其重点在于对图像的处理加工；图形创作软件是按照自己的构思创意，使用矢量图形等来设计图形。</p>
-<h5 id="平面设计："><a href="#平面设计：" class="headerlink" title="平面设计："></a>平面设计：</h5><p>平面设计是Photoshop应用最为广泛的领域，无论是图书封面，还是招帖、海报，这些平面印刷品通常都需要Photoshop软件对图像进行处理。</p>
-<h5 id="广告摄影："><a href="#广告摄影：" class="headerlink" title="广告摄影："></a>广告摄影：</h5><p>广告摄影作为一种对视觉要求非常严格的工作，其最终成品往往要经过Photoshop的修改才能得到满意的效果。</p>
-<h5 id="影像创意："><a href="#影像创意：" class="headerlink" title="影像创意："></a>影像创意：</h5><p>影像创意是Photoshop的特长，通过Photoshop的处理 可以将不同的对象组合在一起，使图像发生变化。</p>
-<h5 id="网页制作："><a href="#网页制作：" class="headerlink" title="网页制作："></a>网页制作：</h5><p>网络的普及是促使更多人需要掌握Photoshop，因为在制作网页时Photoshop是必不可少的网页图像处理软件。</p>
-<h5 id="后期修饰："><a href="#后期修饰：" class="headerlink" title="后期修饰："></a>后期修饰：</h5><p>在制作建筑效果图包括许三维场景时，人物与配景包括场景的颜色常常需要在Photoshop中增加并调整。</p>
-<h5 id="视觉创意："><a href="#视觉创意：" class="headerlink" title="视觉创意："></a>视觉创意：</h5><p>视觉创意与设计是设计艺术的一个分支，此类设计通常没有非常明显的商业目的，但由于他为广大设计爱好者提供了广阔的设计空间，因此越来越多的设计爱好者开始学习Photoshop，并进行具有个人特色与风格的视觉创意。</p>
-<h5 id="界面设计："><a href="#界面设计：" class="headerlink" title="界面设计："></a>界面设计：</h5><p>界面设计是一个新兴的领域，受到越来越多的软件企业及开发者的重视。在当前还没有用于做界面设计的专业软件，因此绝大多数设计者使用的都是该软件。</p>
+<h3 id="PS的用途"><a href="#PS的用途" class="headerlink" title="PS的用途"></a>PS的用途</h3><h5 id="专业测评"><a href="#专业测评" class="headerlink" title="专业测评"></a>专业测评</h5><p>Photoshop的专长在于图像处理，而不是图形创作。图像处理是对已有的位图图像进行编辑加工处理以及运用一些特殊效果，其重点在于对图像的处理加工；图形创作软件是按照自己的构思创意，使用矢量图形等来设计图形。</p>
+<h5 id="平面设计"><a href="#平面设计" class="headerlink" title="平面设计"></a>平面设计</h5><p>平面设计是Photoshop应用最为广泛的领域，无论是图书封面，还是招帖、海报，这些平面印刷品通常都需要Photoshop软件对图像进行处理。</p>
+<h5 id="广告摄影"><a href="#广告摄影" class="headerlink" title="广告摄影"></a>广告摄影</h5><p>广告摄影作为一种对视觉要求非常严格的工作，其最终成品往往要经过Photoshop的修改才能得到满意的效果。</p>
+<h5 id="影像创意"><a href="#影像创意" class="headerlink" title="影像创意"></a>影像创意</h5><p>影像创意是Photoshop的特长，通过Photoshop的处理 可以将不同的对象组合在一起，使图像发生变化。</p>
+<h5 id="网页制作"><a href="#网页制作" class="headerlink" title="网页制作"></a>网页制作</h5><p>网络的普及是促使更多人需要掌握Photoshop，因为在制作网页时Photoshop是必不可少的网页图像处理软件。</p>
+<h5 id="后期修饰"><a href="#后期修饰" class="headerlink" title="后期修饰"></a>后期修饰</h5><p>在制作建筑效果图包括许三维场景时，人物与配景包括场景的颜色常常需要在Photoshop中增加并调整。</p>
+<h5 id="视觉创意"><a href="#视觉创意" class="headerlink" title="视觉创意"></a>视觉创意</h5><p>视觉创意与设计是设计艺术的一个分支，此类设计通常没有非常明显的商业目的，但由于他为广大设计爱好者提供了广阔的设计空间，因此越来越多的设计爱好者开始学习Photoshop，并进行具有个人特色与风格的视觉创意。</p>
+<h5 id="界面设计"><a href="#界面设计" class="headerlink" title="界面设计"></a>界面设计</h5><p>界面设计是一个新兴的领域，受到越来越多的软件企业及开发者的重视。在当前还没有用于做界面设计的专业软件，因此绝大多数设计者使用的都是该软件。</p>
 <hr>
 <p>可以看见PS的用途随处可见，作为一名设计师的话，学好它则是必备的。</p>
 ]]></content>
@@ -47,21 +76,5 @@
         <tag>PS</tag>
         <tag>设计</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>简单介绍</title>
-    <url>/2021/10/15/hello-world/</url>
-    <content><![CDATA[<h3 id="欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。"><a href="#欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。" class="headerlink" title="欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。"></a>欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。</h3><h5 id="个人信息："><a href="#个人信息：" class="headerlink" title="个人信息："></a>个人信息：</h5><p>性别：男生<br>年龄：21<br>爱好：音乐 电影 物理 计算机 睡觉。</p>
-<h5 id="学过的编程语言："><a href="#学过的编程语言：" class="headerlink" title="学过的编程语言："></a>学过的编程语言：</h5><p>Java HTML CSS JavaScript C语言 汇编语言（接触过一点）。</p>
-<h5 id="学过的数据库：MySQL。"><a href="#学过的数据库：MySQL。" class="headerlink" title="学过的数据库：MySQL。"></a>学过的数据库：MySQL。</h5><h5 id="联系方式："><a href="#联系方式：" class="headerlink" title="联系方式："></a>联系方式：</h5><p>QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=2431509232&site=qq&menu=yes">2431509232</a> 邮箱：<a href="mailto:&#50;&#x34;&#51;&#49;&#x35;&#48;&#57;&#50;&#51;&#50;&#x40;&#113;&#113;&#46;&#99;&#111;&#109;">&#50;&#x34;&#51;&#49;&#x35;&#48;&#57;&#50;&#51;&#50;&#x40;&#113;&#113;&#46;&#99;&#111;&#109;</a></p>
-<span id="more"></span>
-
-<hr>
-<h5 id="下面使用Java语言在控制台输出-你好，欢迎你的到来！"><a href="#下面使用Java语言在控制台输出-你好，欢迎你的到来！" class="headerlink" title="下面使用Java语言在控制台输出:你好，欢迎你的到来！"></a>下面使用Java语言在控制台输出:你好，欢迎你的到来！</h5><h5 id="这是初学编程语言的第一个程序，在控制台输出一句话。"><a href="#这是初学编程语言的第一个程序，在控制台输出一句话。" class="headerlink" title="这是初学编程语言的第一个程序，在控制台输出一句话。"></a>这是初学编程语言的第一个程序，在控制台输出一句话。</h5><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">HelloWorld</span></span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span></span>&#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;你好，欢迎你的到来!&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h5 id="运行结果：你好，欢迎你的到来"><a href="#运行结果：你好，欢迎你的到来" class="headerlink" title="运行结果：你好，欢迎你的到来!"></a>运行结果：你好，欢迎你的到来!</h5><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">你好，欢迎你的到来!</span><br></pre></td></tr></table></figure>
-<hr>
-<h5 id="可能你打开该网站时会访问很慢，这是因为网站部署在GitHub上，GitHub服务器是在国外的，所以有时候会访问速度慢。"><a href="#可能你打开该网站时会访问很慢，这是因为网站部署在GitHub上，GitHub服务器是在国外的，所以有时候会访问速度慢。" class="headerlink" title="可能你打开该网站时会访问很慢，这是因为网站部署在GitHub上，GitHub服务器是在国外的，所以有时候会访问速度慢。"></a>可能你打开该网站时会访问很慢，这是因为网站部署在<a href="https://github.com/">GitHub</a>上，<a href="https://github.com/">GitHub</a>服务器是在国外的，所以有时候会访问速度慢。</h5><h5 id="你可能会带有疑惑GitHub是什么？"><a href="#你可能会带有疑惑GitHub是什么？" class="headerlink" title="你可能会带有疑惑GitHub是什么？"></a>你可能会带有疑惑<a href="https://github.com/">GitHub</a>是什么？</h5><p><a href="https://github.com/">GitHub</a>是通过<a href="https://git-scm.com/">Git</a>进行版本控制的软件源代码托管服务平台。<br>截止到2020年1月，<a href="https://github.com/">GitHub</a>已经有超过4000万注册用户和1.9亿代码库（包括至少2800万开源代码库），事实上已经成为了世界上最大的代码存放网站和开源社区。<br>2018年6月4日晚，美国科技公司微软宣布以75亿美元的股票收购<a href="https://github.com/">GitHub</a>。<br>那么我这个网站部署是使用GitHub Pages是<a href="https://github.com/">GitHub</a>提供的一个网页托管服务，来托管的。下面有介绍：<br>GitHub Pages是<a href="https://github.com/">GitHub</a>提供的一个网页托管服务，可以用于存放静态网页，包括博客、项目文档甚至整本书。一般GitHub Pages的网站使用github.io的子域名，但是用户也可以使用第三方域名。</p>
-]]></content>
   </entry>
 </search>
