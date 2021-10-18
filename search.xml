@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>简单介绍</title>
-    <url>/2021/10/15/hello-world/</url>
-    <content><![CDATA[<h3 id="欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。"><a href="#欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。" class="headerlink" title="欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。"></a>欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。</h3><h5 id="个人信息："><a href="#个人信息：" class="headerlink" title="个人信息："></a>个人信息：</h5><p>性别：男生<br>年龄：21<br>爱好：音乐 电影 物理 计算机 睡觉。</p>
-<h5 id="学过的编程语言："><a href="#学过的编程语言：" class="headerlink" title="学过的编程语言："></a>学过的编程语言：</h5><p>Java HTML CSS JavaScript C语言 汇编语言（接触过一点）。</p>
-<h5 id="学过的数据库：MySQL。"><a href="#学过的数据库：MySQL。" class="headerlink" title="学过的数据库：MySQL。"></a>学过的数据库：MySQL。</h5><h5 id="联系方式："><a href="#联系方式：" class="headerlink" title="联系方式："></a>联系方式：</h5><p>QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=2431509232&site=qq&menu=yes">2431509232</a> 邮箱：<a href="mailto:&#50;&#x34;&#x33;&#49;&#53;&#48;&#x39;&#50;&#51;&#x32;&#x40;&#x71;&#x71;&#46;&#99;&#111;&#109;">&#50;&#x34;&#x33;&#49;&#53;&#48;&#x39;&#50;&#51;&#x32;&#x40;&#x71;&#x71;&#46;&#99;&#111;&#109;</a></p>
+    <title>2. 安装PS</title>
+    <url>/2021/10/18/%E5%AE%89%E8%A3%85PS/</url>
+    <content><![CDATA[<p>如果想使用PS，需要下载安装好PS软件。</p>
+<h3 id="PS下载："><a href="#PS下载：" class="headerlink" title="PS下载："></a>PS下载：</h3><p>下载PS可以到它官网进行下载<a href="https://www.adobe.com/cn/products/catalog.html">https://www.adobe.com/cn/products/catalog.html</a><br>它是收费的软件，可以试用一段时间，如果想长期使用需要购买。<br>PS的破解版下载地址：<a href="https://pan.baidu.com/share/init?surl=vb13uMTXGohtKP8AuJxS9g">点击下载</a>提取码：7h4t</p>
 <span id="more"></span>
 
-<hr>
-<h5 id="下面使用Java语言在控制台输出-你好，欢迎你的到来！"><a href="#下面使用Java语言在控制台输出-你好，欢迎你的到来！" class="headerlink" title="下面使用Java语言在控制台输出:你好，欢迎你的到来！"></a>下面使用Java语言在控制台输出:你好，欢迎你的到来！</h5><h5 id="这是初学编程语言的第一个程序，在控制台输出一句话。"><a href="#这是初学编程语言的第一个程序，在控制台输出一句话。" class="headerlink" title="这是初学编程语言的第一个程序，在控制台输出一句话。"></a>这是初学编程语言的第一个程序，在控制台输出一句话。</h5><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">HelloWorld</span></span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span></span>&#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;你好，欢迎你的到来!&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h5 id="运行结果：你好，欢迎你的到来"><a href="#运行结果：你好，欢迎你的到来" class="headerlink" title="运行结果：你好，欢迎你的到来!"></a>运行结果：你好，欢迎你的到来!</h5><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">你好，欢迎你的到来!</span><br></pre></td></tr></table></figure>
-<hr>
-<h5 id="可能你打开该网站时会访问很慢，这是因为网站部署在GitHub上，GitHub服务器是在国外的，所以有时候会访问速度慢。"><a href="#可能你打开该网站时会访问很慢，这是因为网站部署在GitHub上，GitHub服务器是在国外的，所以有时候会访问速度慢。" class="headerlink" title="可能你打开该网站时会访问很慢，这是因为网站部署在GitHub上，GitHub服务器是在国外的，所以有时候会访问速度慢。"></a>可能你打开该网站时会访问很慢，这是因为网站部署在<a href="https://github.com/">GitHub</a>上，<a href="https://github.com/">GitHub</a>服务器是在国外的，所以有时候会访问速度慢。</h5><h5 id="你可能会带有疑惑GitHub是什么？"><a href="#你可能会带有疑惑GitHub是什么？" class="headerlink" title="你可能会带有疑惑GitHub是什么？"></a>你可能会带有疑惑<a href="https://github.com/">GitHub</a>是什么？</h5><p><a href="https://github.com/">GitHub</a>是通过<a href="https://git-scm.com/">Git</a>进行版本控制的软件源代码托管服务平台。<br>截止到2020年1月，<a href="https://github.com/">GitHub</a>已经有超过4000万注册用户和1.9亿代码库（包括至少2800万开源代码库），事实上已经成为了世界上最大的代码存放网站和开源社区。<br>2018年6月4日晚，美国科技公司微软宣布以75亿美元的股票收购<a href="https://github.com/">GitHub</a>。<br>那么我这个网站部署是使用GitHub Pages是<a href="https://github.com/">GitHub</a>提供的一个网页托管服务，来托管的。下面有介绍：<br>GitHub Pages是<a href="https://github.com/">GitHub</a>提供的一个网页托管服务，可以用于存放静态网页，包括博客、项目文档甚至整本书。一般GitHub Pages的网站使用github.io的子域名，但是用户也可以使用第三方域名。</p>
+<h3 id="PS安装：-来着羽兔网"><a href="#PS安装：-来着羽兔网" class="headerlink" title="PS安装：(来着羽兔网)"></a>PS安装：(来着羽兔网)</h3><h5 id="1-断网，运行安装程序"><a href="#1-断网，运行安装程序" class="headerlink" title="1. 断网，运行安装程序"></a>1. 断网，运行安装程序</h5><p>下载破解版进行解压，断网，运行安装程序。<br><img src="https://img.yutu.cn/soft/2019/20191028/e5e336df1e8c4e4e4027d4d341b8bbf9.jpg" alt="点击安装"></p>
+<h5 id="2-修改安装位置"><a href="#2-修改安装位置" class="headerlink" title="2. 修改安装位置"></a>2. 修改安装位置</h5><p>你可以修改你想安装的位置，不建议C盘，然后点击继续。<br><img src="https://img.yutu.cn/soft/2019/20191028/9db783e98eaa4d38fc7d03db1d47722c.jpg" alt="修改位置"></p>
+<h5 id="3-等待安装"><a href="#3-等待安装" class="headerlink" title="3. 等待安装"></a>3. 等待安装</h5><p>等待安装完成即可。<br><img src="https://img.yutu.cn/soft/2019/20191028/d1c5d15560e1cd5b7b0c1cebd13c54bd.jpg" alt="等待安装"></p>
+<h5 id="4-点击关闭"><a href="#4-点击关闭" class="headerlink" title="4. 点击关闭"></a>4. 点击关闭</h5><p>安装完成点击关闭<br><img src="https://img.yutu.cn/soft/2019/20191028/1fd2157b5542cb433ed2bf756e95892f.jpg" alt="点击关闭"></p>
+<h5 id="5-运行Photoshop-cc-2020"><a href="#5-运行Photoshop-cc-2020" class="headerlink" title="5. 运行Photoshop cc 2020"></a>5. 运行Photoshop cc 2020</h5><p>安装好在开始菜单中运行Photoshop cc 2020就可以了，可以右击发送到桌面快捷方式。<br><img src="https://img.yutu.cn/soft/2019/20191028/5e92918a35f029a4402b1bd8130c40f8.jpg" alt="运行软件"></p>
 ]]></content>
+      <categories>
+        <category>PS教程</category>
+      </categories>
+      <tags>
+        <tag>PS</tag>
+        <tag>设计</tag>
+      </tags>
   </entry>
   <entry>
     <title>1. 认识PS</title>
@@ -44,24 +49,19 @@
       </tags>
   </entry>
   <entry>
-    <title>2. 安装PS</title>
-    <url>/2021/10/18/%E5%AE%89%E8%A3%85PS/</url>
-    <content><![CDATA[<p>如果想使用PS，需要下载安装好PS软件。</p>
-<h3 id="PS下载："><a href="#PS下载：" class="headerlink" title="PS下载："></a>PS下载：</h3><p>下载PS可以到它官网进行下载<a href="https://www.adobe.com/cn/products/catalog.html">https://www.adobe.com/cn/products/catalog.html</a><br>它是收费的软件，可以试用一段时间，如果想长期使用需要购买。<br>PS的破解版下载地址：<a href="https://pan.baidu.com/share/init?surl=vb13uMTXGohtKP8AuJxS9g">点击下载</a>提取码：7h4t</p>
+    <title>简单介绍</title>
+    <url>/2021/10/15/hello-world/</url>
+    <content><![CDATA[<h3 id="欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。"><a href="#欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。" class="headerlink" title="欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。"></a>欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。</h3><h5 id="个人信息："><a href="#个人信息：" class="headerlink" title="个人信息："></a>个人信息：</h5><p>性别：男生<br>年龄：21<br>爱好：音乐 电影 物理 计算机 睡觉。</p>
+<h5 id="学过的编程语言："><a href="#学过的编程语言：" class="headerlink" title="学过的编程语言："></a>学过的编程语言：</h5><p>Java HTML CSS JavaScript C语言 汇编语言（接触过一点）。</p>
+<h5 id="学过的数据库：MySQL。"><a href="#学过的数据库：MySQL。" class="headerlink" title="学过的数据库：MySQL。"></a>学过的数据库：MySQL。</h5><h5 id="联系方式："><a href="#联系方式：" class="headerlink" title="联系方式："></a>联系方式：</h5><p>QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=2431509232&site=qq&menu=yes">2431509232</a> 邮箱：<a href="mailto:&#50;&#x34;&#51;&#49;&#x35;&#48;&#57;&#50;&#51;&#50;&#x40;&#113;&#113;&#46;&#99;&#111;&#109;">&#50;&#x34;&#51;&#49;&#x35;&#48;&#57;&#50;&#51;&#50;&#x40;&#113;&#113;&#46;&#99;&#111;&#109;</a></p>
 <span id="more"></span>
 
-<h3 id="PS安装：-来着羽兔网"><a href="#PS安装：-来着羽兔网" class="headerlink" title="PS安装：(来着羽兔网)"></a>PS安装：(来着羽兔网)</h3><h5 id="1-断网，运行安装程序"><a href="#1-断网，运行安装程序" class="headerlink" title="1. 断网，运行安装程序"></a>1. 断网，运行安装程序</h5><p>下载破解版进行解压，断网，运行安装程序。<br><img src="https://img.yutu.cn/soft/2019/20191028/e5e336df1e8c4e4e4027d4d341b8bbf9.jpg" alt="点击安装"></p>
-<h5 id="2-修改安装位置"><a href="#2-修改安装位置" class="headerlink" title="2. 修改安装位置"></a>2. 修改安装位置</h5><p>你可以修改你想安装的位置，不建议C盘，然后点击继续。<br><img src="https://img.yutu.cn/soft/2019/20191028/9db783e98eaa4d38fc7d03db1d47722c.jpg" alt="修改位置"></p>
-<h5 id="3-等待安装"><a href="#3-等待安装" class="headerlink" title="3. 等待安装"></a>3. 等待安装</h5><p>等待安装完成即可。<br><img src="https://img.yutu.cn/soft/2019/20191028/d1c5d15560e1cd5b7b0c1cebd13c54bd.jpg" alt="等待安装"></p>
-<h5 id="4-点击关闭"><a href="#4-点击关闭" class="headerlink" title="4. 点击关闭"></a>4. 点击关闭</h5><p>安装完成点击关闭<br><img src="https://img.yutu.cn/soft/2019/20191028/1fd2157b5542cb433ed2bf756e95892f.jpg" alt="点击关闭"></p>
-<h5 id="5-运行Photoshop-cc-2020"><a href="#5-运行Photoshop-cc-2020" class="headerlink" title="5. 运行Photoshop cc 2020"></a>5. 运行Photoshop cc 2020</h5><p>安装好在开始菜单中运行Photoshop cc 2020就可以了，可以右击发送到桌面快捷方式。<br><img src="https://img.yutu.cn/soft/2019/20191028/5e92918a35f029a4402b1bd8130c40f8.jpg" alt="运行软件"></p>
+<hr>
+<h5 id="下面使用Java语言在控制台输出-你好，欢迎你的到来！"><a href="#下面使用Java语言在控制台输出-你好，欢迎你的到来！" class="headerlink" title="下面使用Java语言在控制台输出:你好，欢迎你的到来！"></a>下面使用Java语言在控制台输出:你好，欢迎你的到来！</h5><h5 id="这是初学编程语言的第一个程序，在控制台输出一句话。"><a href="#这是初学编程语言的第一个程序，在控制台输出一句话。" class="headerlink" title="这是初学编程语言的第一个程序，在控制台输出一句话。"></a>这是初学编程语言的第一个程序，在控制台输出一句话。</h5><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">HelloWorld</span></span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span></span>&#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;你好，欢迎你的到来!&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h5 id="运行结果：你好，欢迎你的到来"><a href="#运行结果：你好，欢迎你的到来" class="headerlink" title="运行结果：你好，欢迎你的到来!"></a>运行结果：你好，欢迎你的到来!</h5><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">你好，欢迎你的到来!</span><br></pre></td></tr></table></figure>
+<hr>
+<h5 id="可能你打开该网站时会访问很慢，这是因为网站部署在GitHub上，GitHub服务器是在国外的，所以有时候会访问速度慢。"><a href="#可能你打开该网站时会访问很慢，这是因为网站部署在GitHub上，GitHub服务器是在国外的，所以有时候会访问速度慢。" class="headerlink" title="可能你打开该网站时会访问很慢，这是因为网站部署在GitHub上，GitHub服务器是在国外的，所以有时候会访问速度慢。"></a>可能你打开该网站时会访问很慢，这是因为网站部署在<a href="https://github.com/">GitHub</a>上，<a href="https://github.com/">GitHub</a>服务器是在国外的，所以有时候会访问速度慢。</h5><h5 id="你可能会带有疑惑GitHub是什么？"><a href="#你可能会带有疑惑GitHub是什么？" class="headerlink" title="你可能会带有疑惑GitHub是什么？"></a>你可能会带有疑惑<a href="https://github.com/">GitHub</a>是什么？</h5><p><a href="https://github.com/">GitHub</a>是通过<a href="https://git-scm.com/">Git</a>进行版本控制的软件源代码托管服务平台。<br>截止到2020年1月，<a href="https://github.com/">GitHub</a>已经有超过4000万注册用户和1.9亿代码库（包括至少2800万开源代码库），事实上已经成为了世界上最大的代码存放网站和开源社区。<br>2018年6月4日晚，美国科技公司微软宣布以75亿美元的股票收购<a href="https://github.com/">GitHub</a>。<br>那么我这个网站部署是使用GitHub Pages是<a href="https://github.com/">GitHub</a>提供的一个网页托管服务，来托管的。下面有介绍：<br>GitHub Pages是<a href="https://github.com/">GitHub</a>提供的一个网页托管服务，可以用于存放静态网页，包括博客、项目文档甚至整本书。一般GitHub Pages的网站使用github.io的子域名，但是用户也可以使用第三方域名。</p>
 ]]></content>
-      <categories>
-        <category>PS教程</category>
-      </categories>
-      <tags>
-        <tag>PS</tag>
-        <tag>设计</tag>
-      </tags>
   </entry>
 </search>
