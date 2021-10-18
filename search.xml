@@ -1,33 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Android开源项目</title>
-    <url>/2021/10/18/android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</url>
-    <content><![CDATA[<h3 id="square-okhttp（网络请求）"><a href="#square-okhttp（网络请求）" class="headerlink" title="square/okhttp（网络请求）"></a>square/okhttp（网络请求）</h3><p>Square 为 JVM、Android 和 GraalVM 精心打造的 HTTP 客户端。<br>GitHub地址:<a href="https://github.com/square/okhttp">https://github.com/square/okhttp</a></p>
-<hr>
-<h3 id="square-retrofit（网络请求）"><a href="#square-retrofit（网络请求）" class="headerlink" title="square/retrofit（网络请求）"></a>square/retrofit（网络请求）</h3><p>适用于 Android 和 JVM 的类型安全 HTTP 客户端<br>GitHub地址:<a href="https://github.com/square/retrofit">https://github.com/square/retrofit</a></p>
-<hr>
-<h3 id="google-material-design-icons（图标和字体）"><a href="#google-material-design-icons（图标和字体）" class="headerlink" title="google/material-design-icons（图标和字体）"></a>google/material-design-icons（图标和字体）</h3><p>谷歌的材料设计图标<br>GitHub地址:<a href="https://github.com/google/material-design-icons">https://github.com/google/material-design-icons</a></p>
-<hr>
-<h3 id="PhilJay-MPAndroidChart（图形视图）"><a href="#PhilJay-MPAndroidChart（图形视图）" class="headerlink" title="PhilJay/MPAndroidChart（图形视图）"></a>PhilJay/MPAndroidChart（图形视图）</h3><p>一个强大的 🚀 Android 图表视图/图形视图库，支持线形-条形-饼-雷达-气泡-和烛台图表以及缩放、平移和动画。<br>GitHub地址:<a href="https://github.com/PhilJay/MPAndroidChart">https://github.com/PhilJay/MPAndroidChart</a></p>
-<hr>
-<h3 id="airbnb-lottie-android（动画）"><a href="#airbnb-lottie-android（动画）" class="headerlink" title="airbnb/lottie-android（动画）"></a>airbnb/lottie-android（动画）</h3><p>在 Android 和 iOS、Web 和 React Native 上本地渲染 After Effects 动画<br>GitHub地址:<a href="https://github.com/airbnb/lottie-android">https://github.com/airbnb/lottie-android</a></p>
-]]></content>
-      <categories>
-        <category>Android</category>
-      </categories>
-      <tags>
-        <tag>Android</tag>
-        <tag>编程</tag>
-        <tag>计算机</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>简单介绍</title>
     <url>/2021/10/15/hello-world/</url>
     <content><![CDATA[<h3 id="欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。"><a href="#欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。" class="headerlink" title="欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。"></a>欢迎来到小兔子的博客！请允许我稍稍介绍自己，我是一名业余计算机和物理爱好者。</h3><h5 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h5><p>性别：男生<br>年龄：21<br>爱好：音乐 电影 物理 计算机 睡觉。</p>
 <h5 id="学过的编程语言"><a href="#学过的编程语言" class="headerlink" title="学过的编程语言"></a>学过的编程语言</h5><p>Java HTML CSS JavaScript C语言 汇编语言（接触过一点）。</p>
-<h5 id="学过的数据库：MySQL。"><a href="#学过的数据库：MySQL。" class="headerlink" title="学过的数据库：MySQL。"></a>学过的数据库：MySQL。</h5><h5 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h5><p>QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=2431509232&site=qq&menu=yes">2431509232</a> 邮箱：<a href="mailto:&#50;&#x34;&#x33;&#49;&#53;&#48;&#x39;&#x32;&#51;&#x32;&#64;&#x71;&#x71;&#46;&#x63;&#x6f;&#x6d;">&#50;&#x34;&#x33;&#49;&#53;&#48;&#x39;&#x32;&#51;&#x32;&#64;&#x71;&#x71;&#46;&#x63;&#x6f;&#x6d;</a></p>
+<h5 id="学过的数据库：MySQL。"><a href="#学过的数据库：MySQL。" class="headerlink" title="学过的数据库：MySQL。"></a>学过的数据库：MySQL。</h5><h5 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h5><p>QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=2431509232&site=qq&menu=yes">2431509232</a> 邮箱：<a href="mailto:&#50;&#52;&#x33;&#49;&#x35;&#48;&#57;&#50;&#x33;&#x32;&#64;&#x71;&#113;&#x2e;&#99;&#111;&#109;">&#50;&#52;&#x33;&#49;&#x35;&#48;&#57;&#50;&#x33;&#x32;&#64;&#x71;&#113;&#x2e;&#99;&#111;&#109;</a></p>
 <span id="more"></span>
 
 <hr>
@@ -37,19 +15,6 @@
 <hr>
 <h5 id="可能你打开该网站时会访问很慢，这是因为网站部署在GitHub上，GitHub服务器是在国外的，所以有时候会访问速度慢。"><a href="#可能你打开该网站时会访问很慢，这是因为网站部署在GitHub上，GitHub服务器是在国外的，所以有时候会访问速度慢。" class="headerlink" title="可能你打开该网站时会访问很慢，这是因为网站部署在GitHub上，GitHub服务器是在国外的，所以有时候会访问速度慢。"></a>可能你打开该网站时会访问很慢，这是因为网站部署在<a href="https://github.com/">GitHub</a>上，<a href="https://github.com/">GitHub</a>服务器是在国外的，所以有时候会访问速度慢。</h5><h5 id="你可能会带有疑惑GitHub是什么？"><a href="#你可能会带有疑惑GitHub是什么？" class="headerlink" title="你可能会带有疑惑GitHub是什么？"></a>你可能会带有疑惑<a href="https://github.com/">GitHub</a>是什么？</h5><p><a href="https://github.com/">GitHub</a>是通过<a href="https://git-scm.com/">Git</a>进行版本控制的软件源代码托管服务平台。<br>截止到2020年1月，<a href="https://github.com/">GitHub</a>已经有超过4000万注册用户和1.9亿代码库（包括至少2800万开源代码库），事实上已经成为了世界上最大的代码存放网站和开源社区。<br>2018年6月4日晚，美国科技公司微软宣布以75亿美元的股票收购<a href="https://github.com/">GitHub</a>。<br>那么我这个网站部署是使用GitHub Pages是<a href="https://github.com/">GitHub</a>提供的一个网页托管服务，来托管的。下面有介绍：<br>GitHub Pages是<a href="https://github.com/">GitHub</a>提供的一个网页托管服务，可以用于存放静态网页，包括博客、项目文档甚至整本书。一般GitHub Pages的网站使用github.io的子域名，但是用户也可以使用第三方域名。</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>创建型：单例模式</title>
-    <url>/2021/10/18/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>Java设计模式</category>
-      </categories>
-      <tags>
-        <tag>编程</tag>
-        <tag>计算机</tag>
-        <tag>Java</tag>
-      </tags>
   </entry>
   <entry>
     <title>2. 安装PS</title>
@@ -70,6 +35,41 @@
       <tags>
         <tag>PS</tag>
         <tag>设计</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>创建型：单例模式</title>
+    <url>/2021/10/18/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Java设计模式</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+        <tag>编程</tag>
+        <tag>计算机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Android开源项目</title>
+    <url>/2021/10/18/android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</url>
+    <content><![CDATA[<h3 id="square-okhttp（网络请求）"><a href="#square-okhttp（网络请求）" class="headerlink" title="square/okhttp（网络请求）"></a>square/okhttp（网络请求）</h3><p>Square 为 JVM、Android 和 GraalVM 精心打造的 HTTP 客户端。<br>GitHub地址:<a href="https://github.com/square/okhttp">https://github.com/square/okhttp</a></p>
+<hr>
+<h3 id="square-retrofit（网络请求）"><a href="#square-retrofit（网络请求）" class="headerlink" title="square/retrofit（网络请求）"></a>square/retrofit（网络请求）</h3><p>适用于 Android 和 JVM 的类型安全 HTTP 客户端<br>GitHub地址:<a href="https://github.com/square/retrofit">https://github.com/square/retrofit</a></p>
+<hr>
+<h3 id="google-material-design-icons（图标和字体）"><a href="#google-material-design-icons（图标和字体）" class="headerlink" title="google/material-design-icons（图标和字体）"></a>google/material-design-icons（图标和字体）</h3><p>谷歌的材料设计图标<br>GitHub地址:<a href="https://github.com/google/material-design-icons">https://github.com/google/material-design-icons</a></p>
+<hr>
+<h3 id="PhilJay-MPAndroidChart（图形视图）"><a href="#PhilJay-MPAndroidChart（图形视图）" class="headerlink" title="PhilJay/MPAndroidChart（图形视图）"></a>PhilJay/MPAndroidChart（图形视图）</h3><p>一个强大的 🚀 Android 图表视图/图形视图库，支持线形-条形-饼-雷达-气泡-和烛台图表以及缩放、平移和动画。<br>GitHub地址:<a href="https://github.com/PhilJay/MPAndroidChart">https://github.com/PhilJay/MPAndroidChart</a></p>
+<hr>
+<h3 id="airbnb-lottie-android（动画）"><a href="#airbnb-lottie-android（动画）" class="headerlink" title="airbnb/lottie-android（动画）"></a>airbnb/lottie-android（动画）</h3><p>在 Android 和 iOS、Web 和 React Native 上本地渲染 After Effects 动画<br>GitHub地址:<a href="https://github.com/airbnb/lottie-android">https://github.com/airbnb/lottie-android</a></p>
+]]></content>
+      <categories>
+        <category>Android</category>
+      </categories>
+      <tags>
+        <tag>编程</tag>
+        <tag>计算机</tag>
+        <tag>Android</tag>
       </tags>
   </entry>
   <entry>
